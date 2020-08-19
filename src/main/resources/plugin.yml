@@ -1,0 +1,4 @@
+name: TagName
+author: Flo504
+version: ${project.version}
+main: fr.flo504.tagname.TagNamePlugin
