@@ -386,6 +386,12 @@ public class TagAPI {
     public enum Method {
 
         //https://wiki.vg/Protocol#Teams
+        /*
+         *  0 Create
+         *  1 Remove
+         *  3 Add player
+         *  4 Remove Player
+         */
 
         CREATE(0),
         REMOVE(1),
