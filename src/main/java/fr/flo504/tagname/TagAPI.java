@@ -389,6 +389,7 @@ public class TagAPI {
         /*
          *  0 Create
          *  1 Remove
+         *  2 Update
          *  3 Add player
          *  4 Remove Player
          */
